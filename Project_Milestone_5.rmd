@@ -140,6 +140,8 @@ ggplot(China_simple_1, aes(x = year, y = quantity_in_millions, fill = year)) +
   )
   
 ```
+
+
 ## Chinese FDI per Region
 
 But how does Chinese FDI differ by region. In looking at the graph below we can see cummulative Chinese FDI each year per region. With it,  the regions China chose to prioritize per year are evident. In the beginning there was little difference between regions in terms of investment, mostly due to the fact that China was not investing much globally at all. Over time, however, we can see that China began to prioritize investing within a few key regions. 
