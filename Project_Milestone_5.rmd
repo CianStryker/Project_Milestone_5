@@ -21,7 +21,7 @@ library(tidyverse)
 
 ## China and "One Belt, One Road"
 
-In this app I will demonstrate the tremendous growth of Chinese Direct Foreign Investment and specifically, the use of FDI in the Belt and Road Initiative. Then I will go on to demonstrate the possible effects of this initiative in terms of ecnomic growth and the political attitudes of recipient regimes. 
+In this app I will demonstrate the tremendous growth of Chinese Direct Foreign Investment and specifically, the use of FDI in the Belt and Road Initiative. Then I will go on to demonstrate the possible effects of this initiative in terms of ecnomic growth and the political attitudes of recipient regimes. The data sets I will be using are the American Enterprise's Chinese FDI data, The World Bank's GDP (PPP) data, and Freedom House's Political Rights data. On this page, however, only the American Enterprise's data will be used. 
 
 # Chinese Investment
 
